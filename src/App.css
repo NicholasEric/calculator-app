@@ -1,0 +1,16 @@
+.Calculator {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: gray;
+}
+
+#display {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: azure;
+  margin: 10px;
+}
